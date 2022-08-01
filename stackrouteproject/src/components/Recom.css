@@ -1,0 +1,54 @@
+.re{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.search{
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    width: 20px
+}
+button{
+    color: blue;
+    
+}
+.re{
+    padding-left: 30px;
+    font-size: 20px;
+}
+.mealtable{
+    padding-left: 30px;
+}
+.recomtable{
+    padding-left: 30px;
+    /* background-color: blue; */
+}
+.head{
+    background-color: brown;
+}
+/* .recomtab{
+    border: 2px rgb(68, 22, 183) solid;
+} */
+.button{
+    margin-left: 20px;
+}
+thead{
+    
+    text-align: center;
+   
+}
+td,th{
+   
+    text-align: center;
+}
+table{
+    margin-left: 10px;
+}
+.name{
+    margin-left:40px !important;
+}
